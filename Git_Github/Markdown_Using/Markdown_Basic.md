@@ -133,7 +133,7 @@ The rendered output looks like this:
 
 > Dorothy followed her through many of the beautifull rooms in her castle.
 >                                                                                                   	
->> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+> > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 ### Blockquotes with Other Elements
 
