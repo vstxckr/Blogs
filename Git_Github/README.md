@@ -1,4 +1,4 @@
-# Chủ đề: tìm hiểu về Git, Github
+# Git và Github
 
 ## Git: 
 
@@ -41,6 +41,11 @@ kể từ đó.
 
 ## Vậy Github là gì?
 
-- Git không giống Github.
+- Github không giống với Git.
 - Github tạo ra những công cụ, những công cụ này sử dụng Git.
 - Github là nơi lưu trữ mã nguồn lớn nhất trên thế giới, và nó được sở hữu bởi Microsoft kể từ năm 2018.
+
+## Tham khảo thêm
+
+- Cách sử dụng Markdown: [link](/Git_Github/Markdown_Using/Markdown_Basic.md)
+- Cách sử dụng Git/Github: [link](/Git_Github/Git_Github_Using/Git_Github.md)
