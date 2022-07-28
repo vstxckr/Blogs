@@ -1,4 +1,4 @@
-<<<<<<< HEAD:Markdown_Using/Markdown_basic.md
+
 # Basic Formatting Syntax
 
 ## Table Of Contents
@@ -42,7 +42,7 @@
 
 When you use two or more heading Github automatically generates a table of contents which you can access by this way:
 
-![image](assets/heading/heading.png)
+![image](/Git_Github/assets/heading/heading.png)
 
 > ### Note: 
 >
@@ -244,7 +244,7 @@ You can display an image by adding `!` and wrapping the alt text in `[ ]`. Then 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Another image](/assets/images/more_infomations.png)
+![Another image](/Git_Github/assets/images/more_infomations.png)
 
 ## Lists
 
@@ -341,7 +341,7 @@ The rendered output looks like this:
 
 > ### Note:
 >
-> ![image](/assets/task_lists/note.png)
+> ![image](/Git_Github/assets/task_lists/note.png)
 
 ## Using Emoji
 
@@ -412,7 +412,7 @@ When viewing a Markdown file, you can click `<>` at the top of the file to disab
 
 > ### Note:
 >
-> ![image](/assets/disabling_markdown_rendering/image.png)
+> ![image](/Git_Github/assets/disabling_markdown_rendering/image.png)
 
 Disabling Markdown rendering enables you to use source view features, such as line linking, which is not possible when viewing rendered Markdown files.
 =======
@@ -459,7 +459,7 @@ Disabling Markdown rendering enables you to use source view features, such as li
 
 When you use two or more heading Github automatically generates a table of contents which you can access by this way:
 
-![image](assets/heading/heading.png)
+![image](/Git_Github/assets/heading/heading.png)
 
 > ### Note: 
 >
@@ -660,7 +660,7 @@ You can display an image by adding `!` and wrapping the alt text in `[ ]`. Then 
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![Another image](/assets/images/more_infomations.png)
+![Another image](/Git_Github/assets/images/more_infomations.png)
 
 ## Lists
 
@@ -757,7 +757,7 @@ The rendered output looks like this:
 
 > ### Note:
 >
-> ![image](/assets/task_lists/note.png)
+> ![image](/Git_Github/assets/task_lists/note.png)
 
 ## Using Emoji
 
@@ -828,7 +828,7 @@ When viewing a Markdown file, you can click `<>` at the top of the file to disab
 
 > ### Note:
 >
-> ![image](/assets/disabling_markdown_rendering/image.png)
+> ![image](/Git_Github/assets/disabling_markdown_rendering/image.png)
 
 Disabling Markdown rendering enables you to use source view features, such as line linking, which is not possible when viewing rendered Markdown files.
 >>>>>>> aea23b4 (Updated directory):Git_Github/Markdown_Using/Markdown_Basic.md
